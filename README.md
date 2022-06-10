@@ -26,7 +26,7 @@ Jupyter notebooks that will help you onboard with AWS personalize various featur
 
 ![image](image/git_terminal.png)
 
-![image](image/git_clone.png)
+![image](image/git_clone1.png)
 
 ## IAM-permissions
 
