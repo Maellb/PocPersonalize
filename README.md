@@ -40,7 +40,7 @@ Your SageMaker user will need to have SageMaker and Personalize Full Access.
 5. Select the "AmazonSageMakerFullAccess" and click "Attach Policy"
 ![image](image/AmazonSageMakerFullAccess.png)
 
-7. Do the same for "AmazonPersonalizeFullAccess" 
+7. Do the same for "AmazonPersonalizeFullAccess" and "IAMFullAccess"
 
 ## 📊 Metrics
 
