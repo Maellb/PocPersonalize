@@ -35,8 +35,10 @@ Your SageMaker user will need to have SageMaker and Personalize Full Access.
 1. Navigate to the IAM Console and select "Roles"
 2. Find the SageMaker user you created, it should start like this "AmazonSageMakerServiceCatalogProductsUseRole". 
 3. Click "Attach Policies"
-4. Select the "AwsSageMakerFullAccess" and click "Attach Policy"
-5. Do the same for "AmazonPersonalizeFullAccess" 
+![image](image/attach_policy.png)
+
+5. Select the "AwsSageMakerFullAccess" and click "Attach Policy"
+6. Do the same for "AmazonPersonalizeFullAccess" 
 
 ## 📊 Metrics
 
