@@ -22,9 +22,9 @@ Jupyter notebooks that will help you onboard with AWS personalize various featur
 
 2. Launch SageMaker Studio
 
-3. Clone this repo into SageMaker
+3. Open a terminal and clone this repo into SageMaker
 
-![image](image/git_terminal.png)
+![image](image/git_terminal1.png)
 
 ![image](image/git_clone1.png)
 
